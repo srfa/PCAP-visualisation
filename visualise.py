@@ -105,7 +105,7 @@ def plot():
 	#plot lists
 	plt.plot(timeList,portDestList, 'ro', markersize=0.5)
 	plt.title('Displaying packets from source IP ' + specIP + ' within file ' + specFile)
-	plt.suptitle('15097823')
+	plt.suptitle('TCP data')
 	plt.show()
 
 main()
