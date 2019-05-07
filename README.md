@@ -1,4 +1,4 @@
-# PCAP-visualisation
+# Pcap visualisation
 Graphs TCP packets from a specified source IP address.
 
 1st arg - file name.                                                                       
