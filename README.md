@@ -1,8 +1,8 @@
 # PCAP-visualisation
-A script that graphs TCP packets from the source IP address argument to its destination.
+Graphs TCP packets from a specified source IP address.
 
-Pass 1st argument as the name of the pcap file.                                                                       
-Pass 2nd argument as the source IP to graph packets from. 
+1st arg - file name.                                                                       
+2nd arg - source IP. 
 Text file will be generated displaying..         
 
 Source Packet Time Stamp --> Destination Packet Time Stamp                                                                  
